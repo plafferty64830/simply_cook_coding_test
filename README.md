@@ -22,6 +22,6 @@ You should upload any code to a GitHub repo for us to look over (or we can provi
 **SUBMISSION**
 
 .
-[![Video Demo of developed app](https://drive.google.com/file/d/14WmKJ1oBRqXrLlodCQ9oC9MVlHA0hfZM/view?usp=sharing)](https://drive.google.com/file/d/1d9uGFCbulrPPze8ofhvPZLEat3vdx2Y-/view?usp=sharing)
+[![Video Demo of developed app](https://www.dropbox.com/scl/fi/mjguxexpercxziz3zkg91/demoCover.png?rlkey=tdr8dpbacwlo9kdf7degsjaro&dl=0)](https://drive.google.com/file/d/1d9uGFCbulrPPze8ofhvPZLEat3vdx2Y-/view?usp=sharing)
 
 The IOS developer account was unlinked prior to upload as another companies developer (who I have access to) was used to sign the app.
