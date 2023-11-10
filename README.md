@@ -1,79 +1,47 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+**React Native Developer - Case Study**
+=======================================
 
-# Getting Started
+Much of the recipe browsing experience for SimplyCook customers involves using carousels that scroll horizontally. Figma files for a typical carousel at SimplyCook.:[  ](https://www.figma.com/file/daCUNPZzpf17U64KsF5lSa/Recipe-carousel?node-id=7%3A757)<https://www.figma.com/file/daCUNPZzpf17U64KsF5lSa/Recipe-carousel?node-id=7%3A757>
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+Given our public 'recipes' API at[  ](https://simplycook.com/api/recipes)<https://simplycook.com/api/recipes> create a react native application that displays a card carousel control that:
 
-## Step 1: Start the Metro Server
+● Displays only recipes that contain the allergens Crustaceans, Fish or Eggs
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+● Displays the recipe name, short description and image on the card
 
-To start Metro, run the following command from the _root_ of your React Native project:
+● When each card is clicked it should 'flip over' to reveal Cooking time, average rating, the top review text and a chilli heat level (0-3); when clicked again it should return to normal
 
-```bash
-# using npm
-npm start
+● Don't worry about the favourite button in the designs.
 
-# OR using Yarn
-yarn start
-```
+● Don't worry too much about design at all, really - this is a tech task, not a design one!
 
-## Step 2: Start your Application
+You're not expected to know a lot about our business, our data or how we 'normally' do things - so ask all the clarifying questions you need to to help understand the task or navigate the recipes dataset.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+You should upload any code to a GitHub repo for us to look over (or we can provide one, if needed). It'd be really great if you could share a working example ahead of your interview, but if not we can start with a quick live demo in the session.**React Native Developer - Case Study**
+=======================================
 
-### For Android
+Much of the recipe browsing experience for SimplyCook customers involves using carousels that scroll horizontally. Figma files for a typical carousel at SimplyCook.:[  ](https://www.figma.com/file/daCUNPZzpf17U64KsF5lSa/Recipe-carousel?node-id=7%3A757)<https://www.figma.com/file/daCUNPZzpf17U64KsF5lSa/Recipe-carousel?node-id=7%3A757>
 
-```bash
-# using npm
-npm run android
+Given our public 'recipes' API at[  ](https://simplycook.com/api/recipes)<https://simplycook.com/api/recipes> create a react native application that displays a card carousel control that:
 
-# OR using Yarn
-yarn android
-```
+● Displays only recipes that contain the allergens Crustaceans, Fish or Eggs
 
-### For iOS
+● Displays the recipe name, short description and image on the card
 
-```bash
-# using npm
-npm run ios
+● When each card is clicked it should 'flip over' to reveal Cooking time, average rating, the top review text and a chilli heat level (0-3); when clicked again it should return to normal
 
-# OR using Yarn
-yarn ios
-```
+● Don't worry about the favourite button in the designs.
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+● Don't worry too much about design at all, really - this is a tech task, not a design one!
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+You're not expected to know a lot about our business, our data or how we 'normally' do things - so ask all the clarifying questions you need to to help understand the task or navigate the recipes dataset.
 
-## Step 3: Modifying your App
+You should upload any code to a GitHub repo for us to look over (or we can provide one, if needed). It'd be really great if you could share a working example ahead of your interview, but if not we can start with a quick live demo in the session.
 
-Now that you have successfully run the app, let's modify it.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+**SUBMISSION**
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+Video Demo of developed app.
+[<img src="=https://drive.google.com/file/d/14WmKJ1oBRqXrLlodCQ9oC9MVlHA0hfZM/view?usp=sharing" width="50%">](https://drive.google.com/file/d/1d9uGFCbulrPPze8ofhvPZLEat3vdx2Y-/view?usp=sharing)
 
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+The IOS developer account was unlinked prior to upload as another companies developer (who I have access to) was used to sign the app.
